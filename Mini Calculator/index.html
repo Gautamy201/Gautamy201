@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Calculator</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .conetener{
+            width: 900px;
+            margin: 0 auto;
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin: 20% ;
+            text-align: center;
+        }
+        .btn button{
+            margin: 15px;
+        }
+        input,button{
+            font-size: 25px;
+            padding: 10px;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="conetener">
+        <input type="number" id="fist_number" placeholder="Enter First Number">
+        <input type="number" id="second_number" placeholder="Enter Second Number">
+        <div class="btn">
+            <button onclick="add()">Add</button>
+            <button onclick="subtract()">Subtract</button>
+            <button onclick="multiplt()">Multiply</button>
+            <button onclick="divide()">Divide</button>
+
+        </div>
+    </div>
+</body>
+<script>
+    function add(){
+        var first_number=document.getElementById("fist_number").value;
+        var second_number=document.getElementById("second_number").value;
+        alert(Number(first_number)+Number(second_number))
+    }
+    function subtract(){
+        var first_number=document.getElementById("fist_number").value;
+        var second_number=document.getElementById("second_number").value;
+        alert(Number(first_number)-Number(second_number))
+    }
+    function multiplt(){
+        var first_number=document.getElementById("fist_number").value;
+        var second_number=document.getElementById("second_number").value;
+        alert(Number(first_number)*Number(second_number))
+    }
+    function divide(){
+        var first_number=document.getElementById("fist_number").value;
+        var second_number=document.getElementById("second_number").value;
+        alert(Number(first_number)/Number(second_number))
+    }
+</script>
+</html>
