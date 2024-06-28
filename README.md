@@ -29,7 +29,7 @@ I'm a [Frontent Developer] based in [Boisar Palghar Maharashtra]. I have a passi
 
 ## 📈 GitHub Stats
 
-[![Gautam Yadav GitHub stats](https://github-readme-stats.vercel.app/api?Gautamy201&show_icons=true&theme=radical)](https://github.com/Gautamy201)
+![Gautamy201's Stats](https://github-readme-stats.vercel.app/api?username=Gautamy201&theme=radical&show_icons=true&hide_border=false&count_private=false)
 
 ## 📫 How to Reach Me
 
