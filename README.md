@@ -29,7 +29,7 @@ I'm a [Frontent Developer] based in [Boisar Palghar Maharashtra]. I have a passi
 
 ## 📈 GitHub Stats
 
-![Gautamy201's Stats](https://github-readme-stats.vercel.app/api?username=Gautamy201&theme=radical&show_icons=true&hide_border=false&count_private=false)
+![Gautamy201's Stats](https://github-readme-stats.vercel.app/api?username=Gautamy201&theme=radical&show_icons=true&hide_border=false&count_private=false)![Gautamy201's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gautamy201&theme=radical&hide_border=false)![Gautamy201's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamy201&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 How to Reach Me
 
